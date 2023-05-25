@@ -39,6 +39,7 @@ Inside the case there is a stand for a Pro-Micro. The USB hole supports USB-C an
 - Make the case thinner.
 - Reduce thickness of plate to 3mm to save on filament.
 - Make the window cut-out at the bottom of the case look cute. (Thinking of chibi-angel wings)
+- Finish writing README.md
 
 ### Stretch Goals
 - Draw a Waifu for the keebweebz.

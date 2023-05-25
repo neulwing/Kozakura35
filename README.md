@@ -1,11 +1,21 @@
-# KOZAKURA KZ-35 QAZ-Inspired Hand-wired keyboard.
+# KOZAKURA KZ-35 QAZ-Inspired 35% Keyboard
 Special thanks to u/dahninja - Cheers for the 3D printing and prototyping. (TдT)
 
 **[DISCLAIMER]
 All files are provided without warranty or any guarantee that they will work. Please proceed at your own risk.**
 
+## Introduction
+_Kozakura,「小桜」,「こざくら」means "Little Cherry Blossom"._
+
+The KZ-35 is a bottom mount keyboard based on the QAZ 35% layout. The project is intended to freely 3D-printable and a fun little project for those hand-wiring their first keyboard.
+
+The case is seamless and in one solid piece. No need for a top cover as the screws are hidden underneath the keycaps.
+
+Underneath there is a large window to show off your hand-wiring work along with the Kozakura symbol. There are also indents for 8mm rubber dome bumpers.
+
+Inside the case there is a stand for a Pro-Micro. The USB hole supports USB-C and micro-USB.
+
 ## Materials
-###Soldering
 - Soldering Iron
 - Insulation (Heatshrink, Polyimide/Electrical Tape)
 - 35 Cherry MX Style Mechanical switches
@@ -14,4 +24,5 @@ All files are provided without warranty or any guarantee that they will work. Pl
 - Wires or Brass bars/tubing (Optional)
 - 4* M2 Screws 8mm long.
 - 4* Heat-set insert M2 Knurled nuts
+- 8mm Rubber dome bumpers (for feet)
 

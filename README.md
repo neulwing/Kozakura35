@@ -9,7 +9,9 @@ _Kozakura,「小桜」,「こざくら」means "Little Cherry Blossom"._
 
 The KZ-35 is a bottom mount keyboard based on the QAZ 35% layout. The project is intended to freely 3D-printable and a fun little project for those hand-wiring their first keyboard.
 
-Both the KZ-35 and QAZ are 10.25u by 4u. On the 3rd row, instead of having 2* 1.5u keys on either side, the KZ-35 has a 1.25u key on the right-side with the rest filled out with 1u keys. On the 4th row, you have 2* 1u keys on both sides of the 6.25u spacebar. 
+Both the KZ-35 and QAZ are 10.25u by 4u. On the 3rd row, instead of having 2* 1.5u keys on either side, the KZ-35 has a 1.25u key on the right-side with the rest filled out with 1u keys. By splitting the L-SHIFT and Z key, you can easily access the capital letters.
+
+Currently on the 4th row, you have 2* 1u keys on both sides of the 6.25u spacebar, but I may decide to upload some variations in the future.
 
 The case is seamless and in one solid piece. No need for a top cover as the screws are hidden underneath the keycaps.
 

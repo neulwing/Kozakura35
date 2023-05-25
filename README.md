@@ -46,4 +46,4 @@ Inside the case there is a stand for a Pro-Micro. The USB hole supports USB-C an
 - Create variant row 4 layouts.
 - Make a build video showing the full process and sound-test. Upload to Youtube.
 - Buy a **reliable** 3D printer.
-- Write a lessons learned article documenting the information that I struggled to find in my research. This could pave the way for newcomers in the keyboard design space.
+- Write a "Lessons learned" article documenting the information that I struggled to find in my research. This could pave the way for newcomers in the keyboard design space.

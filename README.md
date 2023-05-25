@@ -34,3 +34,10 @@ Inside the case there is a stand for a Pro-Micro. The USB hole supports USB-C an
 - Glue
 - Double-sided tape or Hot-glue.
 
+## TODO
+- Make the case thinner.
+- Reduce thickness of plate to 3mm to save on filament.
+- Add support for larger batteries.
+- Make the window cut-out at the bottom of the case look cute. (Thinking of chibi-angel wings)
+- Create a variant with support for 1100mah battery and a panel mounted ON/OFF switch for ZMK and Nice! nano.
+- Draw a Waifu for the keebweebz.

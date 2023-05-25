@@ -1,4 +1,4 @@
-# KOZAKURA KZ-35 QAZ-Inspired 35% Keyboard
+# Kozakura KZ-35 QAZ-Inspired 35% Keyboard
 Special thanks to u/dahninja - Cheers for the 3D printing and prototyping. (TдT)
 
 **[DISCLAIMER]

@@ -35,6 +35,7 @@ Inside the case there is a stand for a Pro-Micro. The USB hole supports USB-C an
 - Double-sided tape or Hot-glue.
 
 ## TODO
+### Current Priorities
 - Make the case thinner.
 - Reduce thickness of plate to 3mm to save on filament.
 - Make the window cut-out at the bottom of the case look cute. (Thinking of chibi-angel wings)

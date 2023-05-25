@@ -29,7 +29,7 @@ Inside the case there is a stand for a Pro-Micro. The USB hole supports USB-C an
 - 4* M2 Screws 8mm long.
 - 4* Heat-set insert M2 Knurled nuts
 - 8mm Rubber dome bumpers (for feet)
-- 4* 4mmx1mmx1mm O-rings (Optional)
+- 4* 4mmx1mmx1.5mm O-rings (Optional)
 - Clear Tamiya Pla Plate
 - Glue
 - Double-sided tape or Hot-glue.

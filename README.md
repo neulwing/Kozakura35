@@ -48,3 +48,6 @@ Inside the case there is a stand for a Pro-Micro. The USB hole supports USB-C an
 - Make a build video showing the full process and sound-test. Upload to Youtube.
 - Buy a **reliable** 3D printer.
 - Write a "Lessons learned" article documenting the information that I struggled to find in my research. This could pave the way for newcomers in the keyboard design space.
+
+## Notes
+- Use USB-C breakout board to reduce the thickness of the case further. (Adafruit USB C Breakout Board - Downstream Connection)

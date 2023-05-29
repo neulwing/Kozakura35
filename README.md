@@ -36,7 +36,7 @@ Inside the case there is a stand for a Pro-Micro. The USB hole supports USB-C an
 
 ## TODO
 ### Current Priorities
-- Make the case thinner, and increase the tolerance between case and plate to 0.4-0.5mm
+- Make the case thinner, and increase the tolerance between case and plate to 0.5mm per side. This will stop the case and plate from rubbing against each other, causing a "creaking noise". This will also remove the need for sanding.
 - Finish writing README.md
 
 ### Stretch Goals

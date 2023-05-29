@@ -37,8 +37,6 @@ Inside the case there is a stand for a Pro-Micro. The USB hole supports USB-C an
 ## TODO
 ### Current Priorities
 - Make the case thinner.
-- Reduce thickness of plate to 3mm to save on filament.
-- Make the window cut-out at the bottom of the case look cute. (Thinking of chibi-angel wings)
 - Finish writing README.md
 
 ### Stretch Goals
@@ -48,6 +46,10 @@ Inside the case there is a stand for a Pro-Micro. The USB hole supports USB-C an
 - Make a build video showing the full process and sound-test. Upload to Youtube.
 - Buy a **reliable** 3D printer.
 - Write a "Lessons learned" article documenting the information that I struggled to find in my research. This could pave the way for newcomers in the keyboard design space.
+
+## Cancelled tasks
+- Reduce thickness of plate to 3mm to save on filament. (Given the mounting style, the plate needs to be stronger I feel)
+- Make the window cut-out at the bottom of the case look cute. (I saw the 3D-printed window in real life, I really like how it turned out.)
 
 ## Notes
 - Use USB-C breakout board to reduce the thickness of the case further. (Adafruit USB C Breakout Board - Downstream Connection)

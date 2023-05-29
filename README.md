@@ -39,9 +39,9 @@ Inside the case there is a stand for a Pro-Micro. The USB hole supports USB-C an
 - Make the case thinner and make final changes.
 - Finish writing README.md
 
-## Nots from 3D-printed prototype.
+### Notes from 3D-printed prototype.
 -I need to increase the tolerance between case and plate to 0.5mm per side. This will stop the case and plate from rubbing against each other, causing a "creaking noise". This will also remove the need for sanding.
-### Cancelled tasks
+#### Cancelled tasks
 - Reduce thickness of plate to 3mm to save on filament. (Given the mounting style, the plate needs to be stronger I feel)
 - Make the window cut-out at the bottom of the case look cute. (I saw the 3D-printed window in real life, I really like how it turned out.)
 

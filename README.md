@@ -36,7 +36,7 @@ Inside the case there is a stand for a Pro-Micro. The USB hole supports USB-C an
 
 ## TODO
 ### Current Priorities
-- Make the case thinner.
+- Make the case thinner, and increase the tolerance between case and plate to 0.4-0.5mm
 - Finish writing README.md
 
 ### Stretch Goals

@@ -36,12 +36,8 @@ Inside the case there is a stand for a Pro-Micro. The USB hole supports USB-C an
 
 ## TODO
 ### Current Priorities
+- Draw a Waifu for the keebweebz.
+- Make a build video showing the full process and sound-test. Upload to Youtube.
+- Write a "Lessons learned" article documenting the information that I struggled to find in my research. This could pave the way for newcomers in the keyboard design space.
 - Finish writing README.md
 
-### Stretch Goals
-- Draw a Waifu for the keebweebz.
-- Create a variant with support for 1100mah battery and a panel mounted ON/OFF switch for ZMK and Nice! nano.
-- Create variant row 4 layouts.
-- Make a build video showing the full process and sound-test. Upload to Youtube.
-- Buy a **reliable** 3D printer.
-- Write a "Lessons learned" article documenting the information that I struggled to find in my research. This could pave the way for newcomers in the keyboard design space.

@@ -20,6 +20,8 @@ Underneath there is a large window to show off your hand-wiring work along with 
 Inside the case there is a stand for a Pro-Micro. The USB hole supports USB-C and micro-USB.
 
 ## Materials
+_Please print this in PLA/PETG Filament_
+
 - Soldering Iron
 - Insulation (Heatshrink, Polyimide/Electrical Tape)
 - 35 Cherry MX Style Mechanical switches

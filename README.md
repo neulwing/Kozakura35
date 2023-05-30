@@ -42,4 +42,5 @@ _Please print this in PLA/PETG Filament_
 - Make a build video showing the full process and sound-test. Upload to Youtube.
 - Write a "Lessons learned" article documenting the information that I struggled to find in my research. This could pave the way for newcomers in the keyboard design space.
 - Finish writing README.md
+- Create aesthitically pleasing graphics to illustrate this page.
 

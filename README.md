@@ -24,7 +24,8 @@ _Please print this in PLA/PETG Filament_
 
 ### Tools
 - Soldering Iron
-- 
+- Screwdriver (Phillips head)
+
 ### Electronics
 - 35 Cherry MX Style Mechanical switches
 - 35 1N4148 Diodes
@@ -40,8 +41,16 @@ _Please print this in PLA/PETG Filament_
 - Double-sided tape or Hot-glue.
 - 8mm Rubber dome bumpers (for feet)
 
+### Keycaps
+- 31* 1u
+- 3* 1.25u
+- 1* 6.25u
+
 ### Optional
-- 4* 4mmx1mmx1.5mm O-rings
+- 4* 4mmx1mmx1.5mm O-rings (Recommended)
+- Blunt tip for Soldering Iron
+- Sandpaper
+- Paint
 
 
 ## TODO

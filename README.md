@@ -19,7 +19,12 @@ Underneath there is a large window to show off your hand-wiring work along with 
 
 Inside the case there is a stand for a Pro-Micro. The USB hole supports USB-C and micro-USB.
 
+## Layout Differences between KZ-35 and QAZ
+![KZ Colourised](https://github.com/neulwing/Kozakura35/assets/44045041/aeb04e8d-8070-4640-9e83-52958927d973)
+![QAZ_Colourised](https://github.com/neulwing/Kozakura35/assets/44045041/8cf0c72b-e531-48ff-836f-03476bf1b273)
+
 ## Materials
+
 _Please print this in PLA/PETG Filament_
 
 ### Tools

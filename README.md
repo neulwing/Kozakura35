@@ -22,22 +22,29 @@ Inside the case there is a stand for a Pro-Micro. The USB hole supports USB-C an
 ## Materials
 _Please print this in PLA/PETG Filament_
 
+### Tools
 - Soldering Iron
-- Insulation (Heatshrink, Polyimide/Electrical Tape)
+- 
+### Electronics
 - 35 Cherry MX Style Mechanical switches
 - 35 1N4148 Diodes
+- Wires or Brass bars/tubing
 - Rainbow Ribbon Cable
-- Wires or Brass bars/tubing (Optional)
+- Insulation (Heatshrink, Polyimide/Electrical Tape)
+
+### Hardware 
 - 4* M2 Screws 8mm long.
 - 4* Heat-set insert M2 Knurled nuts
-- 8mm Rubber dome bumpers (for feet)
-- 4* 4mmx1mmx1.5mm O-rings (Optional)
 - Clear Tamiya Pla Plate
 - Glue
 - Double-sided tape or Hot-glue.
+- 8mm Rubber dome bumpers (for feet)
+
+### Optional
+- 4* 4mmx1mmx1.5mm O-rings
+
 
 ## TODO
-### Current Priorities
 - Draw a Waifu for the keebweebz.
 - Make a build video showing the full process and sound-test. Upload to Youtube.
 - Write a "Lessons learned" article documenting the information that I struggled to find in my research. This could pave the way for newcomers in the keyboard design space.

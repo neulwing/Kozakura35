@@ -23,9 +23,9 @@ Both layouts are 10.25u in width by 4u in depth. Currently I am trying to find a
 
 ## Materials
 ### IMPORTANT
-The case and plate are designed to be printed with PLA.
-The plate needs a stiff material otherwise it would be flexible enough to be a gymnast at the olympics winning the meme-medals.
-###
+### The case and plate are designed to be printed with PLA. ###
+### The plate needs a stiff material otherwise it would be flexible enough to be a gymnast at the olympics winning the meme-medals. ###
+
 
 
 ### Tools

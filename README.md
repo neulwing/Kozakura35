@@ -4,7 +4,7 @@ Special thanks to u/daninjah - Cheers for the 3D printing and prototyping. (TдT
 ## Introduction
 _Kozakura,「小桜」,「こざくら」means "Little Cherry Blossom"._
 
-The KZ-35 is a bottom mount keyboard based on the QAZ 35% layout. The project is intended to freely 3D-printable and a fun little project for those hand-wiring their first keyboard.
+The KZ-35 is a bottom mount keyboard based on the QAZ 35% layout. The project is intended to be freely 3D-printable and a fun little project for those hand-wiring their first keyboard.
 
 The case is seamless and in one solid piece. No need for a top cover as the screws are hidden underneath the keycaps.
 

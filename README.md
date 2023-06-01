@@ -1,9 +1,6 @@
 # Kozakura KZ-35 QAZ-Inspired 35% Keyboard
 Special thanks to u/daninjah - Cheers for the 3D printing and prototyping. (TдT)
 
-**[DISCLAIMER]
-All files are provided without warranty or any guarantee that they will work. Please proceed at your own risk.**
-
 ## Introduction
 _Kozakura,「小桜」,「こざくら」means "Little Cherry Blossom"._
 

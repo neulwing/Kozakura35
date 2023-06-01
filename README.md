@@ -22,8 +22,8 @@ Both layouts are 10.25u in width by 4u in depth. Currently I am trying to find a
 
 
 ## Materials
-
-_Please print this in PLA/PETG Filament_
+The plate must be printed with PLA or a stiff material.
+The case is designed to be printed with PLA or PETG.
 
 ### Tools
 - Soldering Iron

@@ -33,7 +33,7 @@ Both layouts are 10.25u in width by 4u in depth.
 - 35 1N4148 Diodes
 - Wires or Brass bars/tubing
 - Rainbow Ribbon Cable
-- Insulation (Heatshrink, Polyimide/Electrical Tape)
+- Insulation (Heatshrink, Polyamide/Electrical Tape)
 
 ### Hardware 
 - 4* M2 Screws 8mm long.

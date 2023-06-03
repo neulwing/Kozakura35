@@ -28,6 +28,7 @@ Both layouts are 10.25u in width by 4u in depth.
 - Screwdriver (Phillips head)
 
 ### Electronics
+- Pro-Micro (18mmx33mm or smaller) or alternative microcontroller. (I recommend Waveshare RP2040 Zero for KMK)
 - 35 Cherry MX Style Mechanical switches
 - 35 1N4148 Diodes
 - Wires or Brass bars/tubing
